@@ -1,0 +1,28 @@
+{
+  "name": "codes.suraniharsh",
+  "version": "0.0.1",
+  "description": "this is just WDF frist node init",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suraniharsh/NodeJS101.git"
+  },
+  "keywords": [
+    "NodeJS101"
+  ],
+  "author": "Surani Harsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suraniharsh/NodeJS101/issues"
+  },
+  "homepage": "https://github.com/suraniharsh/NodeJS101#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validator": "^13.12.0"
+  }
+}
